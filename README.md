@@ -2,6 +2,11 @@
 
 ---
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Use Case Example](#use-case-example)
+
 ## Introduction
 
 Over the past couple of years, I've been searching for an efficient way to verify file hashes, ensuring the file remains unchanged and checking its hash against VirusTotal for potential threats.
